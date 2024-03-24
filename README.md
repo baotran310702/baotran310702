@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Bảo!
 
-I'm a passionate Flutter developer from UIT, specializing in creating delightful and efficient cross-platform mobile applications. With a strong foundation in a variety of technologies, I bring a diverse skill set to the table.
+I'm a Flutter developer, specializing in creating delightful and efficient cross-platform mobile applications. With a strong foundation in a variety of technologies, I bring a diverse skill set to the table.
 
 ## 🔧 Skills
 
